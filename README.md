@@ -1,6 +1,6 @@
 # bioinformatics-on-cloud
 
-The collection of colab notebooks related to bioinformatics
+The collection of bioinformatics tools and sample codes.
 
 ## SAM tools
 
@@ -15,4 +15,10 @@ The collection of colab notebooks related to bioinformatics
 - Lightweight wrapper of the htslib C-API
 - SAM/BAM/VCF/BCF/BED/GFF/GTF/FASTA/FASTQ
 - Programming language: Python
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/pysam/pysam_v-01.ipynb)
+
+## TSkit - TSinfer
+
+- To infer succinct tree sequences from observed genetic variation data, an efficient way of representing the correlated genealogies that describe the ancestry of many species.
+
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/pysam/pysam_v-01.ipynb)
