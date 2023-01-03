@@ -29,7 +29,7 @@ The collection of bioinformatics tools and sample codes.
 - A population genetics simulator based on tskit.
 - It can simulate random ancestral histories for a sample of individuals (consistent with a given demographic model) under a range of different models and evolutionary processes.
 
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/Tskit/Tskit-tsinfer_v-01.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/msprime/msprime_v-01.ipynb)
 
 ## BWA
 
