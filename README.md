@@ -4,7 +4,7 @@ The collection of bioinformatics tools and sample codes.
 
 ## SAM tools
 
-- Sequence Alignment/Map Tools
+- [Sequence Alignment/Map Tools]
 - A software package for processing short DNA sequence read alignments in the SAM, BAM and CRAM formats including sorting, merging, indexing, converting and many more.
 - Programming language: C
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/SAMtools/SAMtools_v-01.ipynb)
@@ -19,6 +19,14 @@ The collection of bioinformatics tools and sample codes.
 
 ## TSkit - TSinfer
 
+- [Tree Sequence infer]
 - To infer succinct tree sequences from observed genetic variation data, an efficient way of representing the correlated genealogies that describe the ancestry of many species.
 
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/pysam/pysam_v-01.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/Tskit/Tskit-tsinfer_v-01.ipynb)
+
+## BWA
+
+- [Burrow-Wheeler Aligner]
+- A software package for mapping DNA sequences against a large reference genome, such as the human genome.
+- It consists of three algorithms: BWA-backtrack, BWA-SW and BWA-MEM.
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/bwa/bwa_v-02-02.ipynb)
