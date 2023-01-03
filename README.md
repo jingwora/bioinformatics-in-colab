@@ -17,7 +17,7 @@ The collection of bioinformatics tools and sample codes.
 - Programming language: Python
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/pysam/pysam_v-01.ipynb)
 
-## TSinfer (tskit)
+## tsinfer (tskit)
 
 - [Tree Sequence infer]
 - To infer succinct tree sequences from observed genetic variation data, an efficient way of representing the correlated genealogies that describe the ancestry of many species.
