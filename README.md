@@ -37,3 +37,11 @@ The collection of bioinformatics tools and sample codes.
 - A software package for mapping DNA sequences against a large reference genome, such as the human genome.
 - It consists of three algorithms: BWA-backtrack, BWA-SW and BWA-MEM.
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
+
+## Snakemake
+
+- The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
+- Seamlessly scaled to server, cluster, grid and cloud environments
+- Python based language
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
+- 📕 [Doc](https://snakemake.readthedocs.io/en/stable/)
