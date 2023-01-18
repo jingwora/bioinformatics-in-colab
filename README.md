@@ -1,4 +1,4 @@
-# bioinformatics-on-cloud
+# Bioinformatics-Tools
 
 The collection of bioinformatics tools and sample codes.
 
@@ -8,6 +8,7 @@ The collection of bioinformatics tools and sample codes.
 - A software package for processing short DNA sequence read alignments in the SAM, BAM and CRAM formats including sorting, merging, indexing, converting and many more.
 - Programming language: C
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/SAMtools/SAMtools_v-01.ipynb)
+- 📘 [Doc](http://www.htslib.org/doc/)
 
 ## Pysam
 
@@ -16,6 +17,7 @@ The collection of bioinformatics tools and sample codes.
 - SAM/BAM/VCF/BCF/BED/GFF/GTF/FASTA/FASTQ
 - Programming language: Python
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/pysam/pysam_v-01.ipynb)
+- 📘 [Doc](https://pysam.readthedocs.io/en/latest/api.html)
 
 ## tsinfer (tskit)
 
@@ -23,6 +25,7 @@ The collection of bioinformatics tools and sample codes.
 - To infer succinct tree sequences from observed genetic variation data, an efficient way of representing the correlated genealogies that describe the ancestry of many species.
 
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/tsinfer/Tskit-tsinfer_v-01.ipynb)
+- 📘 [Doc](https://tskit.dev/tskit/docs/stable/introduction.html)
 
 ## msprime (tskit)
 
@@ -30,6 +33,7 @@ The collection of bioinformatics tools and sample codes.
 - It can simulate random ancestral histories for a sample of individuals (consistent with a given demographic model) under a range of different models and evolutionary processes.
 
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/msprime/msprime_v-01.ipynb)
+- 📘 [Doc](https://tskit.dev/msprime/docs/stable/intro.html)
 
 ## BWA
 
@@ -37,6 +41,7 @@ The collection of bioinformatics tools and sample codes.
 - A software package for mapping DNA sequences against a large reference genome, such as the human genome.
 - It consists of three algorithms: BWA-backtrack, BWA-SW and BWA-MEM.
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
+- 📘 [Doc](https://bio-bwa.sourceforge.net/bwa.shtml)
 
 ## Snakemake
 
@@ -44,4 +49,4 @@ The collection of bioinformatics tools and sample codes.
 - Seamlessly scaled to server, cluster, grid and cloud environments
 - Python based language
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
-- 📕 [Doc](https://snakemake.readthedocs.io/en/stable/)
+- 📘 [Doc](https://snakemake.readthedocs.io/en/stable/)
