@@ -43,6 +43,14 @@ The collection of bioinformatics tools and sample codes.
 - 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
 - 📘 [Doc](https://bio-bwa.sourceforge.net/bwa.shtml)
 
+## Makefiles
+
+- Makefile is a way of automating software building procedure and other complex tasks with dependencies.
+- The make utility is a software tool for managing and maintaining computer programs consisting many component files.
+- Python based language
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
+- 📘 [Doc](https://www.gnu.org/software/make/manual/make.html)
+
 ## Snakemake
 
 - The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
