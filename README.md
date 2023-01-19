@@ -2,6 +2,11 @@
 
 The collection of bioinformatics tools and sample codes.
 
+## Linux Command
+
+- Basic terminal commands
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools\linux-command\linux-cmd.ipynb)
+
 ## SAM tools
 
 - [Sequence Alignment/Map Tools]
