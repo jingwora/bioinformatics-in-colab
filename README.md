@@ -5,14 +5,14 @@ The collection of bioinformatics tools and sample codes.
 ## Linux Command
 
 - Basic terminal commands
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools\linux-command\linux-cmd.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools\linux-command\linux-cmd.ipynb)
 
 ## SAM tools
 
 - [Sequence Alignment/Map Tools]
 - A software package for processing short DNA sequence read alignments in the SAM, BAM and CRAM formats including sorting, merging, indexing, converting and many more.
 - Programming language: C
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/SAMtools/SAMtools_v-01.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/SAMtools/SAMtools_v-01.ipynb)
 - 📘 [Doc](http://www.htslib.org/doc/)
 
 ## Pysam
@@ -21,7 +21,7 @@ The collection of bioinformatics tools and sample codes.
 - Lightweight wrapper of the htslib C-API
 - SAM/BAM/VCF/BCF/BED/GFF/GTF/FASTA/FASTQ
 - Programming language: Python
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/pysam/pysam_v-01.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/pysam/pysam_v-01.ipynb)
 - 📘 [Doc](https://pysam.readthedocs.io/en/latest/api.html)
 
 ## tsinfer (tskit)
@@ -29,7 +29,7 @@ The collection of bioinformatics tools and sample codes.
 - [Tree Sequence infer]
 - To infer succinct tree sequences from observed genetic variation data, an efficient way of representing the correlated genealogies that describe the ancestry of many species.
 
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/tsinfer/Tskit-tsinfer_v-01.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/tsinfer/Tskit-tsinfer_v-01.ipynb)
 - 📘 [Doc](https://tskit.dev/tskit/docs/stable/introduction.html)
 
 ## msprime (tskit)
@@ -37,7 +37,7 @@ The collection of bioinformatics tools and sample codes.
 - A population genetics simulator based on tskit.
 - It can simulate random ancestral histories for a sample of individuals (consistent with a given demographic model) under a range of different models and evolutionary processes.
 
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/msprime/msprime_v-01.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/msprime/msprime_v-01.ipynb)
 - 📘 [Doc](https://tskit.dev/msprime/docs/stable/intro.html)
 
 ## BWA
@@ -45,7 +45,7 @@ The collection of bioinformatics tools and sample codes.
 - [Burrow-Wheeler Aligner]
 - A software package for mapping DNA sequences against a large reference genome, such as the human genome.
 - It consists of three algorithms: BWA-backtrack, BWA-SW and BWA-MEM.
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/bwa/bwa_v-02-03.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/bwa/bwa_v-02-03.ipynb)
 - 📘 [Doc](https://bio-bwa.sourceforge.net/bwa.shtml)
 
 ## Makefiles
@@ -53,7 +53,7 @@ The collection of bioinformatics tools and sample codes.
 - Makefile is a way of automating software building procedure and other complex tasks with dependencies.
 - The make utility is a software tool for managing and maintaining computer programs consisting many component files.
 - Python based language
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Makefile/Makefile-tutorial.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Makefile/Makefile-tutorial.ipynb)
 - 📘 [Doc](https://www.gnu.org/software/make/manual/make.html)
 
 ## Snakemake
@@ -61,5 +61,5 @@ The collection of bioinformatics tools and sample codes.
 - The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
 - Seamlessly scaled to server, cluster, grid and cloud environments
 - Python based language
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-tools/blob/main/tools/Snakemake/snakemake-tutorial/example-workflow.ipynb)
 - 📘 [Doc](https://snakemake.readthedocs.io/en/stable/)
