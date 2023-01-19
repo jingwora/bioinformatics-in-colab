@@ -48,7 +48,7 @@ The collection of bioinformatics tools and sample codes.
 - Makefile is a way of automating software building procedure and other complex tasks with dependencies.
 - The make utility is a software tool for managing and maintaining computer programs consisting many component files.
 - Python based language
-- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools\Makefile\Makefile-tutorial.ipynb)
+- 📕 [Sample code](https://github.com/jingwora/bioinformatics-on-cloud/blob/main/tools/Makefile/Makefile-tutorial.ipynb)
 - 📘 [Doc](https://www.gnu.org/software/make/manual/make.html)
 
 ## Snakemake
